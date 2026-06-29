@@ -1,0 +1,190 @@
+student_id,student_name,level,department,course_code,course_name,week,classes_held,classes_attended,attendance_percent,assignment_submitted,assignment_score,quiz_score,lms_logins,helpdesk_requests,last_login_days_ago,risk_points,risk_level,risk_label,mentor_review_needed,peer_tutorial_recommended,risk_reason
+STU0001,Uche D.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,5,5,100.0,0,0,89,2,4,6,4,Medium,1,1,0,missing assignment; low LMS activity; frequent helpdesk requests
+STU0001,Uche D.,Year 1,Computer Science,PHY102,General Physics II,1,4,0,0.0,0,0,84,0,4,3,6,High,1,1,1,attendance below 60%; missing assignment; low LMS activity; frequent helpdesk requests
+STU0002,Muna U.,Year 1,Computer Science,GST111,Communication in English,4,8,4,50.0,1,35,40,13,2,4,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0002,Muna U.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,5,2,40.0,0,0,68,3,2,13,5,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login
+STU0002,Muna U.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,8,4,50.0,1,81,78,17,0,14,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0003,Femi C.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,4,0,0.0,1,84,57,2,6,3,5,High,1,1,1,attendance below 60%; quiz score below 60; low LMS activity; frequent helpdesk requests
+STU0003,Femi C.,Year 1,Computer Science,GST111,Communication in English,1,7,4,57.1,1,88,66,5,2,5,2,Low,0,0,0,attendance below 60%
+STU0003,Femi C.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,6,5,83.3,1,76,29,5,4,11,4,Medium,1,1,1,quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0004,Lara F.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,6,8,3,37.5,1,88,27,7,6,0,5,High,1,1,1,attendance below 60%; quiz score below 45; frequent helpdesk requests
+STU0004,Lara F.,Year 1,Computer Science,MTH102,Elementary Mathematics II,3,7,4,57.1,0,0,92,10,1,10,5,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login
+STU0005,Tolu M.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,5,5,100.0,1,51,94,13,4,6,1,Low,0,0,0,frequent helpdesk requests
+STU0005,Tolu M.,Year 1,Computer Science,PHY102,General Physics II,3,5,1,20.0,1,40,26,3,1,10,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0005,Tolu M.,Year 1,Computer Science,GST111,Communication in English,2,7,1,14.3,1,73,79,16,2,8,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0006,Ada V.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,4,2,50.0,1,64,20,8,4,12,6,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0006,Ada V.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,8,1,12.5,1,54,84,6,1,5,2,Low,0,0,0,attendance below 60%
+STU0006,Ada V.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,8,8,100.0,1,73,61,15,0,1,0,None,0,0,0,no current concern
+STU0007,Tara Z.,Year 1,Computer Science,PHY102,General Physics II,2,8,1,12.5,0,0,82,2,6,8,7,High,1,1,1,attendance below 60%; missing assignment; low LMS activity; no recent LMS login; frequent helpdesk requests
+STU0007,Tara Z.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,5,5,100.0,1,70,41,8,4,13,4,Medium,1,1,1,quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0008,Rita N.,Year 1,Computer Science,GST111,Communication in English,6,6,3,50.0,1,76,67,14,4,7,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0008,Rita N.,Year 1,Computer Science,PHY102,General Physics II,1,5,1,20.0,0,0,22,18,4,3,7,High,1,1,1,attendance below 60%; missing assignment; quiz score below 45; frequent helpdesk requests
+STU0009,Jide H.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,4,0,0.0,1,39,85,7,2,10,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0009,Jide H.,Year 1,Computer Science,GST111,Communication in English,4,5,4,80.0,0,0,93,18,3,3,2,Low,0,0,0,missing assignment
+STU0010,Tolu Z.,Year 1,Computer Science,PHY102,General Physics II,1,7,5,71.4,1,64,26,3,0,6,3,Medium,1,1,1,attendance below 75%; quiz score below 45
+STU0010,Tolu Z.,Year 1,Computer Science,COS102,Introduction to Problem Solving,6,6,6,100.0,1,50,44,6,4,7,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0011,Ife N.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,4,3,75.0,1,89,90,3,0,10,1,Low,0,0,0,no recent LMS login
+STU0011,Ife N.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,4,0,0.0,1,89,50,5,3,7,3,Medium,1,1,1,attendance below 60%; quiz score below 60
+STU0012,Tolu G.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,4,3,75.0,1,85,78,9,3,11,1,Low,0,0,0,no recent LMS login
+STU0012,Tolu G.,Year 1,Computer Science,PHY102,General Physics II,6,8,7,87.5,0,0,57,6,0,9,4,Medium,1,1,1,missing assignment; quiz score below 60; no recent LMS login
+STU0013,Lekan R.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,8,7,87.5,1,89,87,5,0,8,1,Low,0,0,0,no recent LMS login
+STU0013,Lekan R.,Year 1,Computer Science,COS102,Introduction to Problem Solving,1,5,0,0.0,1,78,50,12,0,14,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0014,Jide H.,Year 1,Computer Science,GST111,Communication in English,1,7,5,71.4,1,48,60,7,2,6,1,Low,0,0,0,attendance below 75%
+STU0014,Jide H.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,6,3,50.0,1,83,29,0,3,9,6,High,1,1,1,attendance below 60%; quiz score below 45; low LMS activity; no recent LMS login
+STU0014,Jide H.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,4,0,0.0,1,67,53,4,2,14,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0015,Mira H.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,8,4,50.0,1,86,87,0,5,13,5,High,1,1,1,attendance below 60%; low LMS activity; no recent LMS login; frequent helpdesk requests
+STU0015,Mira H.,Year 1,Computer Science,PHY102,General Physics II,5,6,5,83.3,0,0,37,8,0,14,5,High,1,1,1,missing assignment; quiz score below 45; no recent LMS login
+STU0016,Chidi X.,Year 1,Computer Science,PHY102,General Physics II,5,5,5,100.0,1,78,53,16,3,4,1,Low,0,0,0,quiz score below 60
+STU0016,Chidi X.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,4,3,75.0,1,37,20,10,6,2,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0016,Chidi X.,Year 1,Computer Science,GST111,Communication in English,6,6,1,16.7,1,70,74,17,0,1,2,Low,0,0,0,attendance below 60%
+STU0017,Mira W.,Year 1,Computer Science,GST111,Communication in English,3,8,8,100.0,0,0,36,1,2,5,5,High,1,1,1,missing assignment; quiz score below 45; low LMS activity
+STU0017,Mira W.,Year 1,Computer Science,COS102,Introduction to Problem Solving,1,6,1,16.7,1,77,33,11,6,8,6,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0018,Amaka T.,Year 1,Computer Science,PHY102,General Physics II,2,7,0,0.0,0,0,62,13,6,10,6,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login; frequent helpdesk requests
+STU0018,Amaka T.,Year 1,Computer Science,GST111,Communication in English,6,5,2,40.0,0,0,33,12,6,0,7,High,1,1,1,attendance below 60%; missing assignment; quiz score below 45; frequent helpdesk requests
+STU0018,Amaka T.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,5,1,20.0,1,64,64,9,6,12,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0019,Lara H.,Year 1,Computer Science,PHY102,General Physics II,3,6,6,100.0,0,0,55,11,5,8,5,High,1,1,1,missing assignment; quiz score below 60; no recent LMS login; frequent helpdesk requests
+STU0019,Lara H.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,8,5,62.5,1,42,53,5,4,4,3,Medium,1,1,1,attendance below 75%; quiz score below 60; frequent helpdesk requests
+STU0020,Tobi D.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,3,7,1,14.3,1,71,44,8,0,11,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0020,Tobi D.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,4,4,100.0,1,69,45,11,3,1,1,Low,0,0,0,quiz score below 60
+STU0020,Tobi D.,Year 1,Computer Science,GST111,Communication in English,6,6,4,66.7,1,89,35,9,4,4,4,Medium,1,1,1,attendance below 75%; quiz score below 45; frequent helpdesk requests
+STU0021,Ayo N.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,5,1,20.0,1,95,68,5,4,9,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0021,Ayo N.,Year 1,Computer Science,MTH102,Elementary Mathematics II,3,7,0,0.0,1,48,75,18,4,10,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0022,Seyi O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,7,2,28.6,1,53,85,10,0,13,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0022,Seyi O.,Year 1,Computer Science,PHY102,General Physics II,2,6,1,16.7,1,44,23,1,1,7,5,High,1,1,1,attendance below 60%; quiz score below 45; low LMS activity
+STU0023,Rita Y.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,6,8,3,37.5,1,59,83,12,1,2,2,Low,0,0,0,attendance below 60%
+STU0023,Rita Y.,Year 1,Computer Science,GST111,Communication in English,6,4,0,0.0,1,49,42,16,3,0,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0024,Kemi H.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,8,8,100.0,1,95,76,16,3,13,1,Low,0,0,0,no recent LMS login
+STU0024,Kemi H.,Year 1,Computer Science,PHY102,General Physics II,5,7,2,28.6,1,65,77,8,6,3,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0025,Uche I.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,4,2,50.0,1,56,60,17,0,2,2,Low,0,0,0,attendance below 60%
+STU0025,Uche I.,Year 1,Computer Science,PHY102,General Physics II,2,5,3,60.0,1,80,47,2,3,6,3,Medium,1,1,1,attendance below 75%; quiz score below 60; low LMS activity
+STU0025,Uche I.,Year 1,Computer Science,GST111,Communication in English,3,8,7,87.5,1,48,73,12,6,9,2,Low,0,0,0,no recent LMS login; frequent helpdesk requests
+STU0026,Muna A.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,3,6,6,100.0,1,92,73,17,5,11,2,Low,0,0,0,no recent LMS login; frequent helpdesk requests
+STU0026,Muna A.,Year 1,Computer Science,GST111,Communication in English,5,8,3,37.5,1,52,75,15,0,6,2,Low,0,0,0,attendance below 60%
+STU0026,Muna A.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,7,2,28.6,1,93,36,17,0,14,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0027,Femi S.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,5,3,60.0,0,0,53,12,2,3,4,Medium,1,1,1,attendance below 75%; missing assignment; quiz score below 60
+STU0027,Femi S.,Year 1,Computer Science,GST111,Communication in English,4,6,2,33.3,1,59,55,13,2,13,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0027,Femi S.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,7,0,0.0,1,38,64,7,5,1,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0028,Ireti U.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,4,4,100.0,0,0,36,15,5,1,5,High,1,1,1,missing assignment; quiz score below 45; frequent helpdesk requests
+STU0028,Ireti U.,Year 1,Computer Science,PHY102,General Physics II,5,5,3,60.0,1,84,67,5,4,9,3,Medium,1,1,1,attendance below 75%; no recent LMS login; frequent helpdesk requests
+STU0029,Lekan W.,Year 1,Computer Science,PHY102,General Physics II,1,8,0,0.0,1,71,68,12,5,3,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0029,Lekan W.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,8,3,37.5,0,0,58,3,6,9,7,High,1,1,1,attendance below 60%; missing assignment; quiz score below 60; no recent LMS login; frequent helpdesk requests
+STU0030,Tobi L.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,6,0,0.0,1,87,82,3,3,5,2,Low,0,0,0,attendance below 60%
+STU0030,Tobi L.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,7,2,28.6,1,81,86,8,4,12,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0030,Tobi L.,Year 1,Computer Science,COS102,Introduction to Problem Solving,5,7,7,100.0,1,81,95,8,2,13,1,Low,0,0,0,no recent LMS login
+STU0031,Lara C.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,8,6,75.0,1,66,61,5,3,3,0,None,0,0,0,no current concern
+STU0031,Lara C.,Year 1,Computer Science,PHY102,General Physics II,3,6,2,33.3,1,73,55,17,0,8,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0032,Kene C.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,5,5,100.0,1,80,82,14,6,0,1,Low,0,0,0,frequent helpdesk requests
+STU0032,Kene C.,Year 1,Computer Science,GST111,Communication in English,1,6,1,16.7,1,50,59,18,2,7,3,Medium,1,1,1,attendance below 60%; quiz score below 60
+STU0033,Kemi Q.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,3,7,4,57.1,1,49,35,6,2,1,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0033,Kemi Q.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,8,2,25.0,0,0,81,8,5,9,6,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login; frequent helpdesk requests
+STU0034,Ireti Q.,Year 1,Computer Science,MTH102,Elementary Mathematics II,3,5,2,40.0,0,0,21,17,1,4,6,High,1,1,1,attendance below 60%; missing assignment; quiz score below 45
+STU0034,Ireti Q.,Year 1,Computer Science,COS102,Introduction to Problem Solving,1,4,4,100.0,1,95,36,15,0,13,3,Medium,1,1,1,quiz score below 45; no recent LMS login
+STU0034,Ireti Q.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,8,4,50.0,1,63,63,5,0,4,2,Low,0,0,0,attendance below 60%
+STU0035,Tolu D.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,8,0,0.0,0,0,92,9,0,3,4,Medium,1,1,1,attendance below 60%; missing assignment
+STU0035,Tolu D.,Year 1,Computer Science,GST111,Communication in English,1,8,6,75.0,1,85,99,7,6,8,2,Low,0,0,0,no recent LMS login; frequent helpdesk requests
+STU0036,Femi O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,3,8,0,0.0,1,82,32,6,5,3,5,High,1,1,1,attendance below 60%; quiz score below 45; frequent helpdesk requests
+STU0036,Femi O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,3,4,1,25.0,1,70,29,5,0,6,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0037,Dara W.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,6,5,83.3,1,90,78,2,5,3,2,Low,0,0,0,low LMS activity; frequent helpdesk requests
+STU0037,Dara W.,Year 1,Computer Science,MTH102,Elementary Mathematics II,3,8,3,37.5,1,69,48,4,2,13,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0037,Dara W.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,4,0,0.0,0,0,59,18,2,7,5,High,1,1,1,attendance below 60%; missing assignment; quiz score below 60
+STU0038,Chidi O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,8,7,87.5,1,73,25,13,5,5,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0038,Chidi O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,6,0,0.0,0,0,93,18,0,12,5,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login
+STU0038,Chidi O.,Year 1,Computer Science,PHY102,General Physics II,6,6,4,66.7,0,0,42,15,4,10,7,High,1,1,1,attendance below 75%; missing assignment; quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0039,Dara I.,Year 1,Computer Science,GST111,Communication in English,6,7,1,14.3,1,61,62,10,5,1,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0039,Dara I.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,6,3,50.0,1,53,71,17,0,7,2,Low,0,0,0,attendance below 60%
+STU0040,Mira K.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,8,0,0.0,1,69,79,13,0,3,2,Low,0,0,0,attendance below 60%
+STU0040,Mira K.,Year 1,Computer Science,COS102,Introduction to Problem Solving,5,6,4,66.7,1,75,76,1,1,4,2,Low,0,0,0,attendance below 75%; low LMS activity
+STU0041,Kemi E.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,4,4,100.0,1,80,40,9,4,0,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0041,Kemi E.,Year 1,Computer Science,GST111,Communication in English,5,7,1,14.3,1,88,34,14,0,10,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0042,Ife P.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,7,3,42.9,1,44,69,6,4,8,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0042,Ife P.,Year 1,Computer Science,GST111,Communication in English,6,5,0,0.0,1,85,73,10,6,8,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0042,Ife P.,Year 1,Computer Science,PHY102,General Physics II,3,4,2,50.0,1,88,95,18,5,7,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0043,Ife O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,8,6,75.0,1,55,44,7,4,6,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0043,Ife O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,7,0,0.0,1,65,68,12,5,12,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0043,Ife O.,Year 1,Computer Science,PHY102,General Physics II,6,5,3,60.0,1,43,84,18,2,13,2,Low,0,0,0,attendance below 75%; no recent LMS login
+STU0044,Chidi O.,Year 1,Computer Science,GST111,Communication in English,1,5,3,60.0,1,44,29,15,6,4,4,Medium,1,1,1,attendance below 75%; quiz score below 45; frequent helpdesk requests
+STU0044,Chidi O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,3,8,6,75.0,1,89,62,17,3,5,0,None,0,0,0,no current concern
+STU0045,Uche W.,Year 1,Computer Science,GST111,Communication in English,5,4,1,25.0,1,93,56,7,5,1,4,Medium,1,1,1,attendance below 60%; quiz score below 60; frequent helpdesk requests
+STU0045,Uche W.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,4,0,0.0,1,79,58,0,0,5,4,Medium,1,1,1,attendance below 60%; quiz score below 60; low LMS activity
+STU0046,Tobi J.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,5,4,80.0,1,78,43,5,1,1,2,Low,0,0,0,quiz score below 45
+STU0046,Tobi J.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,7,3,42.9,1,72,38,7,3,10,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0047,Bayo O.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,8,2,25.0,0,0,64,18,2,10,5,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login
+STU0047,Bayo O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,6,3,50.0,1,47,69,15,0,3,2,Low,0,0,0,attendance below 60%
+STU0048,Femi S.,Year 1,Computer Science,GST111,Communication in English,6,6,0,0.0,1,77,70,8,0,9,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0048,Femi S.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,4,4,100.0,1,88,56,7,4,12,3,Medium,1,1,1,quiz score below 60; no recent LMS login; frequent helpdesk requests
+STU0049,Tara H.,Year 1,Computer Science,PHY102,General Physics II,6,5,5,100.0,0,0,100,1,2,12,4,Medium,1,1,0,missing assignment; low LMS activity; no recent LMS login
+STU0049,Tara H.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,4,4,100.0,1,43,31,9,2,11,3,Medium,1,1,1,quiz score below 45; no recent LMS login
+STU0049,Tara H.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,5,1,20.0,0,0,89,11,4,8,6,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login; frequent helpdesk requests
+STU0050,Bayo F.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,6,6,6,100.0,0,0,29,4,6,3,5,High,1,1,1,missing assignment; quiz score below 45; frequent helpdesk requests
+STU0050,Bayo F.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,7,5,71.4,0,0,70,0,2,8,5,High,1,1,1,attendance below 75%; missing assignment; low LMS activity; no recent LMS login
+STU0051,Chidi O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,6,0,0.0,1,65,23,17,2,14,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0051,Chidi O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,5,5,100.0,0,0,79,9,5,6,3,Medium,1,1,0,missing assignment; frequent helpdesk requests
+STU0052,Chidi E.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,4,0,0.0,1,69,37,12,3,5,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0052,Chidi E.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,8,6,75.0,1,81,39,13,5,1,3,Medium,1,1,1,quiz score below 45; frequent helpdesk requests
+STU0053,Tolu T.,Year 1,Computer Science,MTH102,Elementary Mathematics II,6,6,1,16.7,1,95,50,11,0,10,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0053,Tolu T.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,8,5,62.5,0,0,55,6,0,13,5,High,1,1,1,attendance below 75%; missing assignment; quiz score below 60; no recent LMS login
+STU0054,Dara C.,Year 1,Computer Science,PHY102,General Physics II,3,5,1,20.0,1,48,28,17,1,9,5,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login
+STU0054,Dara C.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,5,2,40.0,1,85,96,0,2,13,4,Medium,1,1,1,attendance below 60%; low LMS activity; no recent LMS login
+STU0054,Dara C.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,5,4,80.0,1,46,34,0,1,0,3,Medium,1,1,1,quiz score below 45; low LMS activity
+STU0055,Tara Z.,Year 1,Computer Science,GST111,Communication in English,1,5,2,40.0,0,0,73,16,0,11,5,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login
+STU0055,Tara Z.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,7,7,100.0,1,67,95,3,3,8,1,Low,0,0,0,no recent LMS login
+STU0056,Lara T.,Year 1,Computer Science,GST111,Communication in English,4,4,0,0.0,1,89,71,13,5,1,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0056,Lara T.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,7,1,14.3,1,55,97,4,0,2,2,Low,0,0,0,attendance below 60%
+STU0057,Bayo T.,Year 1,Computer Science,GST111,Communication in English,5,8,4,50.0,1,73,75,3,6,11,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0057,Bayo T.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,8,3,37.5,1,91,49,13,2,13,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0057,Bayo T.,Year 1,Computer Science,PHY102,General Physics II,4,7,6,85.7,1,55,74,10,5,4,1,Low,0,0,0,frequent helpdesk requests
+STU0058,Tara E.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,4,3,75.0,0,0,67,4,4,0,3,Medium,1,1,0,missing assignment; frequent helpdesk requests
+STU0058,Tara E.,Year 1,Computer Science,COS102,Introduction to Problem Solving,5,8,8,100.0,1,42,72,11,6,10,2,Low,0,0,0,no recent LMS login; frequent helpdesk requests
+STU0058,Tara E.,Year 1,Computer Science,GST111,Communication in English,4,4,2,50.0,1,57,33,18,4,3,5,High,1,1,1,attendance below 60%; quiz score below 45; frequent helpdesk requests
+STU0059,Ife V.,Year 1,Computer Science,PHY102,General Physics II,3,8,5,62.5,0,0,55,18,1,12,5,High,1,1,1,attendance below 75%; missing assignment; quiz score below 60; no recent LMS login
+STU0059,Ife V.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,8,8,100.0,0,0,54,0,1,4,4,Medium,1,1,1,missing assignment; quiz score below 60; low LMS activity
+STU0060,Muna Y.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,5,1,20.0,1,60,28,4,5,10,6,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0060,Muna Y.,Year 1,Computer Science,GST111,Communication in English,1,4,4,100.0,0,0,73,14,2,2,2,Low,0,0,0,missing assignment
+STU0061,Tara J.,Year 1,Computer Science,MTH102,Elementary Mathematics II,2,5,4,80.0,0,0,30,8,3,10,5,High,1,1,1,missing assignment; quiz score below 45; no recent LMS login
+STU0061,Tara J.,Year 1,Computer Science,COS102,Introduction to Problem Solving,4,7,7,100.0,1,48,85,3,2,6,0,None,0,0,0,no current concern
+STU0061,Tara J.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,6,5,83.3,1,66,87,9,0,3,0,None,0,0,0,no current concern
+STU0062,Femi T.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,5,1,20.0,1,53,61,3,0,7,2,Low,0,0,0,attendance below 60%
+STU0062,Femi T.,Year 1,Computer Science,PHY102,General Physics II,6,7,2,28.6,0,0,88,7,4,8,6,High,1,1,1,attendance below 60%; missing assignment; no recent LMS login; frequent helpdesk requests
+STU0063,Ayo Z.,Year 1,Computer Science,COS102,Introduction to Problem Solving,6,4,3,75.0,0,0,29,10,4,6,5,High,1,1,1,missing assignment; quiz score below 45; frequent helpdesk requests
+STU0063,Ayo Z.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,7,6,85.7,1,60,22,10,1,12,3,Medium,1,1,1,quiz score below 45; no recent LMS login
+STU0064,Rita O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,5,3,60.0,1,68,30,12,6,4,4,Medium,1,1,1,attendance below 75%; quiz score below 45; frequent helpdesk requests
+STU0064,Rita O.,Year 1,Computer Science,COS102,Introduction to Problem Solving,6,6,1,16.7,1,45,29,16,5,1,5,High,1,1,1,attendance below 60%; quiz score below 45; frequent helpdesk requests
+STU0064,Rita O.,Year 1,Computer Science,PHY102,General Physics II,5,8,3,37.5,1,57,64,4,1,1,2,Low,0,0,0,attendance below 60%
+STU0065,Ife I.,Year 1,Computer Science,PHY102,General Physics II,6,4,1,25.0,1,75,83,14,6,9,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0065,Ife I.,Year 1,Computer Science,GST111,Communication in English,5,7,5,71.4,1,75,60,4,3,1,1,Low,0,0,0,attendance below 75%
+STU0066,Tolu O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,6,4,66.7,0,0,79,14,0,0,3,Medium,1,1,1,attendance below 75%; missing assignment
+STU0066,Tolu O.,Year 1,Computer Science,GST111,Communication in English,3,6,0,0.0,1,89,31,16,3,7,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0066,Tolu O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,5,8,0,0.0,1,86,93,6,2,9,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0067,Tolu Q.,Year 1,Computer Science,COS102,Introduction to Problem Solving,1,6,5,83.3,0,0,42,1,1,11,6,High,1,1,1,missing assignment; quiz score below 45; low LMS activity; no recent LMS login
+STU0067,Tolu Q.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,7,2,28.6,1,93,56,12,3,12,4,Medium,1,1,1,attendance below 60%; quiz score below 60; no recent LMS login
+STU0068,Seyi V.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,4,4,100.0,1,53,52,4,2,1,1,Low,0,0,0,quiz score below 60
+STU0068,Seyi V.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,5,2,40.0,1,76,70,4,4,11,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0068,Seyi V.,Year 1,Computer Science,GST111,Communication in English,1,6,4,66.7,1,85,62,4,5,11,3,Medium,1,1,1,attendance below 75%; no recent LMS login; frequent helpdesk requests
+STU0069,Lekan V.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,4,2,50.0,1,95,47,10,6,7,4,Medium,1,1,1,attendance below 60%; quiz score below 60; frequent helpdesk requests
+STU0069,Lekan V.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,2,5,1,20.0,0,0,57,3,4,12,7,High,1,1,1,attendance below 60%; missing assignment; quiz score below 60; no recent LMS login; frequent helpdesk requests
+STU0069,Lekan V.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,8,0,0.0,1,91,99,4,4,6,3,Medium,1,1,1,attendance below 60%; frequent helpdesk requests
+STU0070,Ife F.,Year 1,Computer Science,GST111,Communication in English,6,7,0,0.0,1,78,50,14,4,4,4,Medium,1,1,1,attendance below 60%; quiz score below 60; frequent helpdesk requests
+STU0070,Ife F.,Year 1,Computer Science,PHY102,General Physics II,6,7,3,42.9,1,54,80,6,2,10,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0071,Jide O.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,8,6,75.0,1,87,45,4,6,4,2,Low,0,0,0,quiz score below 60; frequent helpdesk requests
+STU0071,Jide O.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,7,5,71.4,1,41,86,3,2,1,1,Low,0,0,0,attendance below 75%
+STU0072,Ireti F.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,4,1,25.0,1,91,64,0,3,0,3,Medium,1,1,1,attendance below 60%; low LMS activity
+STU0072,Ireti F.,Year 1,Computer Science,PHY102,General Physics II,4,8,5,62.5,1,40,67,7,0,5,1,Low,0,0,0,attendance below 75%
+STU0073,Chidi W.,Year 1,Computer Science,MTH102,Elementary Mathematics II,1,6,6,100.0,1,88,37,15,3,9,3,Medium,1,1,1,quiz score below 45; no recent LMS login
+STU0073,Chidi W.,Year 1,Computer Science,PHY102,General Physics II,1,4,0,0.0,1,88,39,17,5,9,6,High,1,1,1,attendance below 60%; quiz score below 45; no recent LMS login; frequent helpdesk requests
+STU0073,Chidi W.,Year 1,Computer Science,COS102,Introduction to Problem Solving,5,7,1,14.3,1,50,58,3,0,3,3,Medium,1,1,1,attendance below 60%; quiz score below 60
+STU0074,Amaka U.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,8,8,100.0,0,0,85,18,1,11,3,Medium,1,1,0,missing assignment; no recent LMS login
+STU0074,Amaka U.,Year 1,Computer Science,COS102,Introduction to Problem Solving,2,6,3,50.0,0,0,65,7,4,6,5,High,1,1,1,attendance below 60%; missing assignment; frequent helpdesk requests
+STU0074,Amaka U.,Year 1,Computer Science,GST111,Communication in English,2,4,4,100.0,1,39,87,17,4,12,2,Low,0,0,0,no recent LMS login; frequent helpdesk requests
+STU0075,Nedu R.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,1,7,5,71.4,1,36,65,2,2,3,2,Low,0,0,0,attendance below 75%; low LMS activity
+STU0075,Nedu R.,Year 1,Computer Science,GST111,Communication in English,6,4,4,100.0,1,56,37,1,2,8,4,Medium,1,1,1,quiz score below 45; low LMS activity; no recent LMS login
+STU0076,Seyi U.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,6,5,1,20.0,0,0,78,1,2,3,5,High,1,1,1,attendance below 60%; missing assignment; low LMS activity
+STU0076,Seyi U.,Year 1,Computer Science,GST111,Communication in English,1,5,0,0.0,1,54,85,12,6,8,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0077,Tolu I.,Year 1,Computer Science,PHY102,General Physics II,3,4,2,50.0,1,86,67,13,3,11,3,Medium,1,1,1,attendance below 60%; no recent LMS login
+STU0077,Tolu I.,Year 1,Computer Science,MTH102,Elementary Mathematics II,4,7,5,71.4,1,66,83,11,6,8,3,Medium,1,1,1,attendance below 75%; no recent LMS login; frequent helpdesk requests
+STU0078,Bayo Z.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,4,8,2,25.0,1,55,33,2,2,10,6,High,1,1,1,attendance below 60%; quiz score below 45; low LMS activity; no recent LMS login
+STU0078,Bayo Z.,Year 1,Computer Science,COS102,Introduction to Problem Solving,3,6,3,50.0,1,62,41,14,2,7,4,Medium,1,1,1,attendance below 60%; quiz score below 45
+STU0079,Tobi X.,Year 1,Computer Science,GST111,Communication in English,3,4,0,0.0,1,60,66,16,6,11,4,Medium,1,1,1,attendance below 60%; no recent LMS login; frequent helpdesk requests
+STU0079,Tobi X.,Year 1,Computer Science,GST112,Nigerian Peoples and Culture,6,5,0,0.0,0,0,97,14,0,2,4,Medium,1,1,1,attendance below 60%; missing assignment
+STU0080,Mira H.,Year 1,Computer Science,MTH102,Elementary Mathematics II,5,4,4,100.0,0,0,77,11,2,7,2,Low,0,0,0,missing assignment
+STU0080,Mira H.,Year 1,Computer Science,GST111,Communication in English,1,8,2,25.0,1,60,60,8,1,1,2,Low,0,0,0,attendance below 60%
+STU0080,Mira H.,Year 1,Computer Science,PHY102,General Physics II,1,5,3,60.0,1,93,91,3,2,12,2,Low,0,0,0,attendance below 75%; no recent LMS login
