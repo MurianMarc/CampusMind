@@ -1,0 +1,9 @@
+COMPUTER SCIENCE PROGRAMME
+
+The Computer Science programme teaches students software engineering, artificial intelligence, cybersecurity, networking and data science.
+
+Students complete practical laboratory sessions alongside theoretical lectures.
+
+Python is introduced in the first year and is used throughout multiple courses.
+
+The programme also encourages teamwork, research and project-based learning.
