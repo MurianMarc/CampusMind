@@ -1,0 +1,17 @@
+{
+  "feature_weights": {
+    "attendance": 0.45,
+    "ca": 0.30,
+    "participation": 0.15,
+    "lms": 0.10
+  },
+  "class_weights": {
+    "0": 1.0,
+    "1": 1.5,
+    "2": 2.5
+  },
+  "blend": {
+    "policy_score": 0.5,
+    "ml_probability": 0.5
+  }
+}
